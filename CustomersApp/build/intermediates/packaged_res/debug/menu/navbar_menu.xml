@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="Restaurant"
+        android:id="@+id/restaurantMenu"
+        android:icon="@drawable/ic_baseline_restaurant_menu_24"/>
+
+    <item
+        android:title="Orders"
+        android:id="@+id/OrdersMenu"
+        android:icon="@drawable/carts_icon"
+        />
+
+    <item
+        android:title="Profile"
+        android:id="@+id/ProfileMenu"
+        android:icon="@drawable/profile_icon"
+        />
+
+</menu>

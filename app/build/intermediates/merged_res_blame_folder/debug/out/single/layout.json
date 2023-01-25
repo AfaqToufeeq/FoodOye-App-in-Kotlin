@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fooditems_layout.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\fooditems_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\confirmorder_layout.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\confirmorder_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_dialog_layout_view.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\custom_dialog_layout_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_confirm_order.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\fragment_confirm_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\addcart_layout.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\addcart_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_food_menu.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\fragment_food_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add_food_items.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\fragment_add_food_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_progress_dialog.xml",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\layout_progress_dialog.xml"
+    }
+]

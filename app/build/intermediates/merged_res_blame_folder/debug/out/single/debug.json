@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_selectimage_menu.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\menu\\selectimage_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_progress_dialog.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\layout_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_open_sans_semibold.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\open_sans_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_checkbox.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_cart_icon.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\cart_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_empty_list.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\ic_empty_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_green_btn.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\green_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_open_sans_light.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\open_sans_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottomnavi_pinkbackground.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\bottomnavi_pinkbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_checkbox_selector.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_dialog_layout_view.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\custom_dialog_layout_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_baloo.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\baloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_food_menu.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\fragment_food_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_confirmorder_layout.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\confirmorder_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_lock_black_24dp.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_open_sans_bold.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\open_sans_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_fooditems_layout.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\fooditems_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_cart_black.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\ic_cart_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_favourite_icon.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\favourite_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_semibold.ttf.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\poppins_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_lock_black.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\ic_lock_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_text3_shape.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\text3_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_add_food_items.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\fragment_add_food_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_bangers.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\bangers.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_googlesans_medium.ttf.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\googlesans_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_email.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\email.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_addcart_layout.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\addcart_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\menu_navbar_menu.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\menu\\navbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_checkboxselected.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\checkboxselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_delete_white.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\ic_delete_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_whatsapp_logo.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\whatsapp_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_open_sans.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\open_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_load_gif.gif.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\load_gif.gif"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ripple_effect.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\ripple_effect.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_googlesans_bolditalic.ttf.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\googlesans_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_samosapic.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\samosapic.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_work_sans_bold.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\work_sans_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_add_item_icon.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\add_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_googlesans_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\googlesans_mediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_background.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_confirm_order.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\layout\\fragment_confirm_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_dialogue_box.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\dialogue_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_send_black.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\ic_send_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_pinkbackground.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\pinkbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_applogo.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\applogo.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_orders_icon.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\orders_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\anim_mysplashanimation.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\anim\\mysplashanimation.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_icon.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangular_blue_btn.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\rectangular_blue_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_googlesans_italic.ttf.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\googlesans_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_lightblue_btn.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\lightblue_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_googlesans_bold.ttf.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\googlesans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_profile_icon.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\profile_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_carts_icon.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\carts_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_googlesans_regular.ttf.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\font\\googlesans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_darkblue_btn.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\Food-Delivery-App-Kotlin\\app\\src\\main\\res\\drawable\\darkblue_btn.xml"
+    }
+]

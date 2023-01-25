@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodOye Admin</string>
+    <string name="on_time_every_time">ON TIME, EVERY TIME</string>
+    <string name="get_food_transport_to_your_doorstep_notice_the_dinner_you_long_for_and_demand_it_after_a_short_time_you_can_in_like_manner_coordinate_food_ahead_for_pickup_rather_than_essentially_referring_to_improvement_select_pickup_add_food_things_to_your_cart">Get food transport to your doorstep. Notice the dinner you long for and demand it. After a short time you can in like manner coordinate food ahead for Pickup rather than essentially referring to improvement. Select Pickup, add food things to your cart.</string>
+    <string name="food_oye">Food Oye</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_files_found">No Food Items Available</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="choose_from_gallery">Choose from gallery</string>
+    <string name="set_quantity">Set Quantity</string>
+    <string name="dashBoard_title">Food Items</string>
+    <string name="place_order">Place Order</string>
+    <string name="no_order_are_available_yet">No order are available yet</string>
+</resources>

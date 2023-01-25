@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoodOye.iml" filepath="$PROJECT_DIR$/.idea/modules/FoodOye.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodOye.CustomersApp.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodOye.CustomersApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomersApp/FoodOye.CustomersApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomersApp/FoodOye.CustomersApp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomersApp/FoodOye.CustomersApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomersApp/FoodOye.CustomersApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomersApp/FoodOye.CustomersApp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomersApp/FoodOye.CustomersApp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/foodoyeadmin/FoodOye.foodoyeadmin.iml" filepath="$PROJECT_DIR$/.idea/modules/foodoyeadmin/FoodOye.foodoyeadmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/foodoyeadmin/FoodOye.foodoyeadmin.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/foodoyeadmin/FoodOye.foodoyeadmin.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/foodoyeadmin/FoodOye.foodoyeadmin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/foodoyeadmin/FoodOye.foodoyeadmin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/foodoyeadmin/FoodOye.foodoyeadmin.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/foodoyeadmin/FoodOye.foodoyeadmin.unitTest.iml" />
+    </modules>
+  </component>
+</project>

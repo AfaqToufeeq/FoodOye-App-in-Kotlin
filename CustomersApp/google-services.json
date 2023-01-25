@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040404901040",
+    "project_id": "fooddelivery-foodoye",
+    "storage_bucket": "fooddelivery-foodoye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040404901040:android:a34b15e7cee1f6b5d51f75",
+        "android_client_info": {
+          "package_name": "com.app.foodoye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040404901040-1vfdk592cmjaqe0mde32d1jshho1mseu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhJKUTZnoG5V7w_RLgAOXPc-Y2SsW7F7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040404901040-1vfdk592cmjaqe0mde32d1jshho1mseu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

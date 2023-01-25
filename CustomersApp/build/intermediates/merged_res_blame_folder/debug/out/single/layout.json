@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\custom_dialog_layout_view.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\custom_dialog_layout_view.xml"
+    },
+    {
+        "merged": "com.app.foodoye.CustomersApp-mergeDebugResources-40:/layout/addcart_layout.xml",
+        "source": "com.app.foodoye.CustomersApp-main-43:/layout/addcart_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\activity_confirm_order.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\activity_confirm_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\confirmorder_layout.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\confirmorder_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\fragment_food_menu.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\fragment_food_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\layout_progress_dialog.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\layout_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\fragment_restaurants.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\fragment_restaurants.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\fragment_add_food_items.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\fragment_add_food_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\fragment_my_orders.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\fragment_my_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\fooditems_layout.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\fooditems_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\restaurant_layout.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\restaurant_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\myorders_layout.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\myorders_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\activity_view_food_item.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\activity_view_food_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-mergeDebugResources-40:\\layout\\addcart_layout.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoye.CustomersApp-main-43:\\layout\\addcart_layout.xml"
+    }
+]

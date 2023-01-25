@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.activities.addRestaurantActivity">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/parentToolBar"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        app:cardBackgroundColor="#EBFFFFFF"
+        android:elevation="10dp"
+        app:cardElevation="6dp">
+        <LinearLayout
+            android:id="@+id/LinearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp"
+            android:padding="5dp"
+            android:weightSum="3">
+
+            <ImageView
+                android:id="@+id/back2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/ic_back"
+                app:tint="@color/black" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_semibold"
+                android:gravity="center"
+                android:text="Restaurant"
+                android:textColor="@color/pinkShade"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="12dp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textSize="22dp"
+            android:elevation="@dimen/_10sdp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textColor="@color/colorPrimary"
+            android:text="Add Restaurant" />
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="@dimen/_250sdp"
+            android:layout_height="@dimen/_250sdp"
+            android:layout_marginHorizontal="@dimen/_30sdp"
+            android:elevation="@dimen/_15sdp"
+            android:layout_gravity="center"
+            card_view:cardElevation="@dimen/_15sdp"
+            app:cardCornerRadius="30dp"
+            android:layout_margin="@dimen/_10sdp">
+
+            <ImageView
+                android:id="@+id/RestaurantImage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:paddingTop="@dimen/_10sdp"
+                android:paddingBottom="@dimen/_10sdp"
+                android:background="@color/lightgray"
+                android:src="@drawable/add_item_icon" />
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            card_view:cardCornerRadius="10dp"
+            android:elevation="@dimen/_15sdp"
+            card_view:cardElevation="@dimen/_15sdp"
+            android:background="#FAFAFA"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginHorizontal="@dimen/_10sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_10sdp"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/restaurantName_ET"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Restaurant Name"
+                    android:textSize="@dimen/_18sdp"/>
+
+                <EditText
+                    android:id="@+id/restaurantDes_ET"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:hint="Description"
+                    android:inputType="textMultiLine"
+                    android:textSize="@dimen/_16sdp"/>
+
+                <TextView
+                    android:id="@+id/restaurantID_TV"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_25sdp"
+                    android:visibility="gone"
+                    android:textColor="@color/lightOrange"
+                    android:text="your restaurantID"
+                    android:textSize="@dimen/_16sdp"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/addRestaurant_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/googlesans_bold"
+            android:padding="12dp"
+            android:textAllCaps="false"
+            android:elevation="16dp"
+            android:layout_marginTop="70dp"
+            android:layout_margin="80dp"
+            android:textColor="@color/white"
+            android:letterSpacing="0.1"
+            android:background="@drawable/green_btn"
+            android:text="Add Restaurant" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

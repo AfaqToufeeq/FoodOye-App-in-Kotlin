@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_ic_cart_black.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\ic_cart_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_ic_lock_black_24dp.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_ic_delete_white.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\ic_delete_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_baloo.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\baloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\layout_custom_dialog_layout_view.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\custom_dialog_layout_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_lightblue_btn.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\lightblue_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_iv_arrow.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\iv_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_whatsapp_logo.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\whatsapp_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_iv_search.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\iv_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_poppins_semibold.ttf.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\poppins_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\layout_orders_layout.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\orders_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_reject_order_icon.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\reject_order_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\layout_fragment_add_food_items.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\fragment_add_food_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_open_sans_bold.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\open_sans_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_accepted_orders_icon.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\accepted_orders_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_checkbox.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_open_sans_semibold.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\open_sans_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_applogo.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\applogo.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_text3_shape.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\text3_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_home_icon.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\layout_activity_add_restaurant.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\activity_add_restaurant.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\layout_layout_progress_dialog.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\layout_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_btn_background.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_samosapic.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\samosapic.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_orders_icon.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\orders_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_ripple_effect.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\ripple_effect.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_pending_order_icon.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\pending_order_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\menu_toogleorder_menu.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\menu\\toogleorder_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_work_sans_bold.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\work_sans_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_cart_icon.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\cart_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_googlesans_italic.ttf.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\googlesans_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_ic_send_black.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\ic_send_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\menu_orders_menu.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\menu\\orders_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_googlesans_bolditalic.ttf.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\googlesans_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_pinkbackground.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\pinkbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_googlesans_regular.ttf.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\googlesans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_adminapp_logo.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\adminapp_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_load_gif.gif.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\load_gif.gif"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\menu_selectimage_menu.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\menu\\selectimage_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_iv_toogle.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\iv_toogle.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_open_sans_light.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\open_sans_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_checkboxselected.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\checkboxselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_checkbox_selector.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_restaurant_icon.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\restaurant_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_ic_lock_black.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\ic_lock_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_googlesans_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\googlesans_mediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_googlesans_medium.ttf.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\googlesans_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_green_btn.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\green_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_bottomnavi_pinkbackground.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\bottomnavi_pinkbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_email.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\email.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_completed_orders_icon.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\completed_orders_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_open_sans.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\open_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\layout_fragment_orders.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\fragment_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_ic_baseline_restaurant_menu_24.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\ic_baseline_restaurant_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_add_item_icon.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\add_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "com.app.foodoyeadmin-merged_res-41:/layout_activity_login.xml.flat",
+        "source": "com.app.foodoyeadmin-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_load_giphy.gif.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\load_giphy.gif"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_profile_icon.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\profile_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\menu_navbar_menu.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\menu\\navbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_googlesans_bold.ttf.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\googlesans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_darkblue_btn.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\darkblue_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_dialogue_box.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\dialogue_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_rectangular_blue_btn.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\rectangular_blue_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\font_bangers.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\font\\bangers.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\menu_restaurant_menu.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\menu\\restaurant_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\layout_fragment_pending_orders.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\fragment_pending_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_favourite_icon.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\favourite_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_ic_empty_list.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\ic_empty_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\drawable_carts_icon.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\drawable\\carts_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-merged_res-41:\\anim_mysplashanimation.xml.flat",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\anim\\mysplashanimation.xml"
+    }
+]

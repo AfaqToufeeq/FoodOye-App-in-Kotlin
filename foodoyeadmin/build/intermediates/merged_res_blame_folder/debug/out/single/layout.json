@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-mergeDebugResources-40:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-mergeDebugResources-40:\\layout\\layout_progress_dialog.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\layout_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-mergeDebugResources-40:\\layout\\fragment_pending_orders.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\fragment_pending_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-mergeDebugResources-40:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.app.foodoyeadmin-mergeDebugResources-40:/layout/activity_login.xml",
+        "source": "com.app.foodoyeadmin-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-mergeDebugResources-40:\\layout\\fragment_orders.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\fragment_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-mergeDebugResources-40:\\layout\\orders_layout.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\orders_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-mergeDebugResources-40:\\layout\\fragment_add_food_items.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\fragment_add_food_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-mergeDebugResources-40:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-mergeDebugResources-40:\\layout\\custom_dialog_layout_view.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\custom_dialog_layout_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-mergeDebugResources-40:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-mergeDebugResources-40:\\layout\\activity_add_restaurant.xml",
+        "source": "C:\\Users\\afaqt\\.gradle\\daemon\\7.3.3\\com.app.foodoyeadmin-main-43:\\layout\\activity_add_restaurant.xml"
+    }
+]

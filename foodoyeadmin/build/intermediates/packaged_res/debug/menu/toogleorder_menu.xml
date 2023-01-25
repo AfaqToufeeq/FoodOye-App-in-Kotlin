@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="example.javatpoint.com.kotlincontextmenu.MainActivity">
+
+    <item
+        android:id="@+id/pendingMenu"
+        android:orderInCategory="100"
+        android:title="Pending Orders"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/acceptedMenu"
+        android:orderInCategory="100"
+        android:title="Accepted Orders"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/rejectedMenu"
+        android:orderInCategory="100"
+        android:title="Rejected Orders"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/completedMenu"
+        android:orderInCategory="100"
+        android:title="Completed Orders"
+        app:showAsAction="never" />
+
+</menu>
