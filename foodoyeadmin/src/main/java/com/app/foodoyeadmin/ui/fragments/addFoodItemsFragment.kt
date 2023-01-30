@@ -242,11 +242,13 @@ class addFoodItemsFragment : Fragment() {
         price = binding.FoodPrice.text.toString()
         imgURI = uri
 
+        if(imgURI == null){
+            Toast.makeText(requireActivity(),"Please select image first",Toast.LENGTH_SHORT).show()
+            return
+        }
+
         if(foodName!!.isBlank() || price!!.isBlank() || description!!.isBlank())
         {
-            if(imgURI == null){
-                Toast.makeText(requireActivity(),"Please select image first",Toast.LENGTH_SHORT).show()
-            }
             Toast.makeText(requireActivity(), "Please Complete the details", Toast.LENGTH_SHORT).show()
             return
         }
@@ -300,7 +302,8 @@ class addFoodItemsFragment : Fragment() {
      }catch (e:Exception)
      {
          if(!loader.isShowing) loader.dismiss()
-         Toast.makeText(requireActivity(),"${e.message}",Toast.LENGTH_SHORT).show()
+         Log.d("addFoodItemsRestaurant","${e.message}")
+
      }
     }
 

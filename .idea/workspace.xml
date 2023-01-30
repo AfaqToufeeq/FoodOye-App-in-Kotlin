@@ -6,8 +6,7 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="listCheckAddcart" />
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="AutoImportSettings">
@@ -16,13 +15,15 @@
   <component name="ChangeListManager">
     <list default="true" id="2c665fa2-7378-4b66-bc9b-440c228be8a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodoyeadmin/src/main/java/com/app/foodoyeadmin/ui/activities/addRestaurantActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/foodoyeadmin/src/main/java/com/app/foodoyeadmin/ui/activities/addRestaurantActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodoyeadmin/src/main/java/com/app/foodoyeadmin/ui/fragments/addFoodItemsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/foodoyeadmin/src/main/java/com/app/foodoyeadmin/ui/fragments/addFoodItemsFragment.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[90010a0d]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -97,7 +98,7 @@
     <property name="android-custom-viewC:/Users/afaqt/AppData/Local/Android/Sdk/sources/android-32/android/widget/TextView.java_SELECTED" value="TextView" />
     <property name="android-custom-viewC:/Users/afaqt/AppData/Local/Android/Sdk/sources/android-32/android/widget/TextView.java_TextView_DIMENSIONS" value="1080&#10;1920" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../galleryapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RetrofitMVVM" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -137,7 +138,7 @@
       <command value="gradle signingReport" />
     </option>
   </component>
-  <component name="RunManager" selected="Android App.CustomersApp">
+  <component name="RunManager" selected="Android App.foodoyeadmin">
     <configuration name="CustomersApp" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="FoodOye.CustomersApp.main" />
       <option name="DEPLOY" value="true" />

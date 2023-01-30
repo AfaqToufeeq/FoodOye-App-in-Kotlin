@@ -177,12 +177,13 @@ class addRestaurantActivity : AppCompatActivity() {
         description = binding.restaurantDesET.text.toString()
         imgURI = uri
 
+        if(imgURI == null){
+            Toast.makeText(this@addRestaurantActivity,"Please select image first",Toast.LENGTH_SHORT).show()
+            return
+        }
+
         if(restaurantName!!.isBlank() || description!!.isBlank())
         {
-            if(imgURI == null){
-                Toast.makeText(this@addRestaurantActivity,"Please select image first",Toast.LENGTH_SHORT).show()
-            }
-
             Toast.makeText(this@addRestaurantActivity, "Please Complete the details", Toast.LENGTH_SHORT).show()
             return
         }
@@ -245,7 +246,7 @@ class addRestaurantActivity : AppCompatActivity() {
         }catch (e:Exception)
         {
             if(!loader.isShowing) loader.dismiss()
-            Toast.makeText(this@addRestaurantActivity,"${e.message}",Toast.LENGTH_SHORT).show()
+           Log.d("addRestaurantActivity","${e.message}")
         }
     }
 
